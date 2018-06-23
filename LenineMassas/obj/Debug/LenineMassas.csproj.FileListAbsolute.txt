@@ -1,0 +1,63 @@
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe.config
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.pdb
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.Properties.Resources.resources
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaInicial.resources
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.GenerateResource.cache
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.CoreCompileInputs.cache
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.exe
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.pdb
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaMenu.resources
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.TelaLogin1.resources
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csprojAssemblyReference.cache
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.CadastroCliente.resources
+D:\C# - Lógica de programação\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.cadastroProdutoCliente.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas.mdf
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas_log.ldf
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe.config
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.pdb
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csprojAssemblyReference.cache
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.Properties.Resources.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.CadastroCliente.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.cadastroProdutoCliente.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.TelaLogin1.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaMenu.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaInicial.resources
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.GenerateResource.cache
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.CoreCompileInputs.cache
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.exe
+C:\Users\aguin\Desktop\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.pdb
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas.mdf
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas_log.ldf
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe.config
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.pdb
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.Properties.Resources.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.CadastroCliente.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.cadastroProdutoCliente.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.TelaLogin1.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaMenu.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaInicial.resources
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.GenerateResource.cache
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.CoreCompileInputs.cache
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.exe
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.pdb
+C:\Users\aguinaldo.ferreira\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csprojResolveAssemblyReference.cache
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas.mdf
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\bin\Debug\Model\BdLenineMassas_log.ldf
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe.config
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.exe
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\bin\Debug\LenineMassas.pdb
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csprojAssemblyReference.cache
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.Properties.Resources.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.CadastroCliente.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.cadastroProdutoCliente.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.TelaLogin1.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaMenu.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.telaInicial.resources
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.GenerateResource.cache
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.csproj.CoreCompileInputs.cache
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.exe
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.pdb
+C:\Users\aguin\Desktop\Projetos\LenineMassas\LenineMassas\LenineMassas\LenineMassas\obj\Debug\LenineMassas.View.PesquisarCliente.resources
